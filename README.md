@@ -2,4 +2,4 @@
 
 Hi people
 
-I'm guy trying to learn coding.
+I'm a guy trying to learn coding.
